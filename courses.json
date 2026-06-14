@@ -33,5 +33,12 @@
             "irishdeguzman1806@gmail.com",
             "molledalirah09@gmail.com"
         ]
+    },
+    {
+        "course_name": "STS",
+        "course_description": "ewan",
+        "course_instructor": "Anna Torio",
+        "course_files": [],
+        "enrolled_students": []
     }
 ]
