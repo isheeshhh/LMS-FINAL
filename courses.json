@@ -1,0 +1,13 @@
+[
+    {
+        "course_name": "OOP",
+        "course_description": "object-oriented programming",
+        "course_instructor": "Irish De Guzman",
+        "course_files": [
+            "CMPE-103-Module-3-File-Handling-in-Python.pdf"
+        ],
+        "enrolled_students": [
+            "irishdeguzman1806@gmail.com"
+        ]
+    }
+]

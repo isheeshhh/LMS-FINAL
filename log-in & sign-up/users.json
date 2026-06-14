@@ -1,0 +1,18 @@
+{
+    "users": [
+        {
+            "fullname": "Irish De Guzman",
+            "email": "irishdeguzman.acads@gmail.com",
+            "username": "irishdeguzman.acads@gmail.com",
+            "password": "hello",
+            "role": "professor"
+        },
+        {
+            "fullname": "Ishi De Guzman",
+            "email": "irishdeguzman1806@gmail.com",
+            "username": "irishdeguzman1806@gmail.com",
+            "password": "hello",
+            "role": "student"
+        }
+    ]
+}
