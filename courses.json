@@ -9,5 +9,16 @@
         "enrolled_students": [
             "irishdeguzman1806@gmail.com"
         ]
+    },
+    {
+        "course_name": "CHF",
+        "course_description": "computer hardware fundamentals",
+        "course_instructor": "Irish De Guzman",
+        "course_files": [
+            "CPH101L-MODULE-01-INTRODUCTION.pdf"
+        ],
+        "enrolled_students": [
+            "irishdeguzman1806@gmail.com"
+        ]
     }
 ]
