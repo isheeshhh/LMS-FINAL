@@ -13,6 +13,20 @@
             "username": "irishdeguzman1806@gmail.com",
             "password": "hello",
             "role": "student"
+        },
+        {
+            "fullname": "Lirah Molleda",
+            "email": "molledalirah09@gmail.com",
+            "username": "molledalirah09@gmail.com",
+            "password": "love",
+            "role": "student"
+        },
+        {
+            "fullname": "Anna Torio",
+            "email": "lirahmolleda9@gmail.com",
+            "username": "lirahmolleda9@gmail.com",
+            "password": "love",
+            "role": "professor"
         }
     ]
 }
