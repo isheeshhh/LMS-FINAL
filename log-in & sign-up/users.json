@@ -13,6 +13,13 @@
             "username": "irishdeguzman1806@gmail.com",
             "password": "hello",
             "role": "student"
+        },
+        {
+            "fullname": "annnaaaa",
+            "email": "jennyruby@gmail.com",
+            "username": "jennyruby@gmail.com",
+            "password": "1366",
+            "role": "student"
         }
     ]
 }
