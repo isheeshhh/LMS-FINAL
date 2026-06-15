@@ -7,7 +7,19 @@
             "CMPE-103-Module-3-File-Handling-in-Python.pdf"
         ],
         "enrolled_students": [
-            "irishdeguzman1806@gmail.com"
+            "irishdeguzman1806@gmail.com",
+            "molledalirah09@gmail.com"
+        ]
+    },
+    {
+        "course_name": "CHEMISTRY",
+        "course_description": "",
+        "course_instructor": "Anna Torio",
+        "course_files": [
+            "CMPE-103-Modules-and-Packages.pdf"
+        ],
+        "enrolled_students": [
+            "molledalirah09@gmail.com"
         ]
     },
     {
@@ -18,7 +30,15 @@
             "CPH101L-MODULE-01-INTRODUCTION.pdf"
         ],
         "enrolled_students": [
-            "irishdeguzman1806@gmail.com"
+            "irishdeguzman1806@gmail.com",
+            "molledalirah09@gmail.com"
         ]
+    },
+    {
+        "course_name": "STS",
+        "course_description": "ewan",
+        "course_instructor": "Anna Torio",
+        "course_files": [],
+        "enrolled_students": []
     }
 ]
