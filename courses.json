@@ -40,5 +40,14 @@
         "course_instructor": "Anna Torio",
         "course_files": [],
         "enrolled_students": []
+    },
+    {
+        "course_name": "CALCULUS 1",
+        "course_description": "",
+        "course_instructor": "Dina Moder",
+        "course_files": [
+            "zhuxin-mobile-legends-4k-wallpaper-uhdpaper.com-444@3@b.jpg"
+        ],
+        "enrolled_students": []
     }
 ]
