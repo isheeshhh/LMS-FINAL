@@ -4,8 +4,11 @@
         "course_description": "",
         "course_instructor": "Irish De Guzman",
         "course_files": [
-            "CMPE-103-Module-1-Python-Strings-Manipulation.pdf"
+            "CMPE-103-Module-1-Python-Strings-Manipulation.pdf",
+            "CMPE-103-Module-3-File-Handling-in-Python.pdf"
         ],
-        "enrolled_students": []
+        "enrolled_students": [
+            "irishdeguzman.acads@gmail.com"
+        ]
     }
 ]
