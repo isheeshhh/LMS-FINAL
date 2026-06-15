@@ -27,7 +27,7 @@ if os.path.exists(SESSION_FILE):
 
 initials = "".join([part[0].upper() for part in student_name.split()[:2]]) if student_name else "CB"
 
-# 2. Dynamic Data Streaming Manager
+# 2. Dynamic Data and Streaming Manager
 def load_courses():
     """Reads courses directly from the shared database file populated by the Professor app."""
     if not os.path.exists(db.COURSES_DATABASE):

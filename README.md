@@ -1,1 +1,1 @@
-Backend code of our OOP Learning Management System Tkinter Application
+Here is the backend code of our OOP Learning Management System Tkinter Application. Run the file named log-in & signup.py to access the program, and create your respective accounts to start testing.
